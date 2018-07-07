@@ -9,9 +9,8 @@ Visit http://www.magzor.com for more information and try out our MDP!
 * Arduino Zero
 
 ## Installation Instructions
-**From zip file**: In the Arduino IDE, navigate to *Sketch > Include Library*. At the top of the drop down list, select the option to "Add .ZIP Library''. Select **MagzorI2C.zip**.  
-**-OR-**  
-**From source folder**: Copy the **MagzorI2C** folder into your *C:\Users\YOUR_USER_NAME\Documents\Arduino\libraries* directory.
+1. Download the library: https://github.com/Magzorian/MagzorI2C-Arduino/archive/master.zip
+2. (In the Arduino IDE) Sketch > Include Library > Add .ZIP Library > select the downloaded file > Open
 
 ## Examples
 Check out the examples folder for examples.
